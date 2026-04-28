@@ -19,3 +19,16 @@
 
 ![[NOTEPAD] highest-gpa-test_plan_3.png](%5BNOTEPAD%5D%20highest-gpa-test_plan_3.png)
 
+## After Optimization
+
+![[POWERSHELL] all-student-test_plan_1_afterOptimization.png](%5BPOWERSHELL%5D%20all-student-test_plan_1_afterOptimization.png)
+
+![[NOTEPAD] all-student-test_plan_1_afterOptimization.png](%5BNOTEPAD%5D%20all-student-test_plan_1_afterOptimization.png)
+
+![[POWERSHELL] all-student-name-test_plan_2_afterOptimization.png](%5BPOWERSHELL%5D%20all-student-name-test_plan_2_afterOptimization.png)
+
+![[NOTEPAD] all-student-name-test_plan_2_afterOptimization.png](%5BNOTEPAD%5D%20all-student-name-test_plan_2_afterOptimization.png)
+
+![[POWERSHELL] highest-gpa-test_plan_3_afterOptimization.png](%5BPOWERSHELL%5D%20highest-gpa-test_plan_3_afterOptimization.png)
+
+![[NOTEPAD] highest-gpa-test_plan_3_afterOptimization.png](%5BNOTEPAD%5D%20highest-gpa-test_plan_3_afterOptimization.png)
